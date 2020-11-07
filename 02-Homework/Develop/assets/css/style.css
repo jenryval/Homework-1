@@ -135,6 +135,7 @@ p {
 }
 
 .search-engine-optimization {
+    overflow: auto;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -144,6 +145,7 @@ p {
 }
 
 .online-reputation-management {
+    overflow: auto;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -153,6 +155,7 @@ p {
 }
 
 .social-media-marketing {
+    overflow: auto;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
